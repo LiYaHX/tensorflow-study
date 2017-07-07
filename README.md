@@ -1,6 +1,6 @@
 # tensorflow-study
 Record the machine learning process </n>
-###### DevTool: MacOS 10.12
+###### DevEnv: MacOS 10.12
 
 ### Install TensorFlow
 
