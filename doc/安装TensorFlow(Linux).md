@@ -1,16 +1,19 @@
 原文[参见这里](https://www.tensorflow.org/install/),由于电脑系统是Ubuntu，这里只关注Ubuntu下的安装，其他系统环境请参考原文
 
-<!-- TOC START min:1 max:3 link:true update:true -->
-- [到底安装哪个版本](#)
-  - [仅使用CPU的TensorFlow](#cputensorflow)
-  - [有GPU支持的TensorFlow](#gputensorflow)
-    - [GPU支持的前提要求](#gpu)
-- [开始安装TensorFlow](#tensorflow)
-  - [安装pip和virtualenv](#pipvirtualenv)
-  - [创建virtualenv环境](#virtualenv)
-- [校验TensorFlow是否安装好了](#tensorflow-1)
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-<!-- TOC END -->
+- [到底安装哪个版本](#到底安装哪个版本)
+	- [仅使用CPU的TensorFlow](#仅使用cpu的tensorflow)
+	- [有GPU支持的TensorFlow](#有gpu支持的tensorflow)
+		- [GPU支持的前提要求](#gpu支持的前提要求)
+- [开始安装TensorFlow](#开始安装tensorflow)
+	- [安装pip和virtualenv](#安装pip和virtualenv)
+	- [创建virtualenv环境](#创建virtualenv环境)
+	- [激活virtualenv环境](#激活virtualenv环境)
+	- [安装TensorFlow](#安装tensorflow)
+- [校验TensorFlow是否安装好了](#校验tensorflow是否安装好了)
+
+<!-- /TOC -->
 
 # 到底安装哪个版本
 ## 仅使用CPU的TensorFlow
