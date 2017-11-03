@@ -37,7 +37,10 @@ $pip install tensorflow-gpu
 $pip uninstall tensorflow-gpu
 ```
 
-##### Note:
+##### Note 1:
 ######   a. `brew linkapps python` 命令已弃用，改用`hash -r python`
 ######   b. MacOS暂不支持tensorflow-gpu，因此需卸载：`pip uninstall tensorflow-gpu`
 ######   c. 建议看[TensorFlow](https://www.tensorflow.org/)，因为中文官网更新有延时
+
+##### Note 2:
+######   a. [一文读懂TensorFlow（附代码、学习资料）](https://mp.weixin.qq.com/s/SlitM8JToD7dN5E5Ue9wjA) ![image](https://github.com/LiYaHX/tensorflow-study/blob/master/doc/images/arc_of_tensorflow_study.jpeg)
